@@ -1,11 +1,11 @@
-# Springtail jumping microrobot microrobot
+# Springtail jumping microrobot
 This GitHub repository describes the mechanical and electrical hardware and software for an autonomous spring-tail inspired jumping microrobot. 
 
 # Hardware Specifications
-This section details the electrical and mechanical hardware used in the Buffalo Bytes platform.
+This section details the electrical and mechanical hardware used in the jumping microrobot.
 
 ## Electrical hardware
-The custom PCB for the jumping microrobot is detailed in [here](https://github.com/RobotFormAndFunction/Springtail_microrobot/tree/main/ElectricalHardware), with the schematic of the board, Gerber files, and BOM (bill of materials). The microcontroller is an ATtiny10 which is a small, low-power 8-bit AVR RISC-based microcontroller with 1 KB ISP Flash memory, 32B SRAM, four general purpose I/O lines. The summary of electrical hardware is below in the BOM. 
+The custom PCB for the jumping microrobot is detailed in [here](https://github.com/RobotFormAndFunction/Springtail_microrobot/tree/main/ElectricalHardware), with the schematic of the board and Gerber files. The microcontroller is an ATtiny10 which is a small, low-power 8-bit AVR RISC-based microcontroller with 1 KB ISP Flash memory, 32B SRAM, four general purpose I/O lines. The summary of electrical hardware is below in the BOM. 
 
 <details><summary>Bill of materials (BOM)</summary>
 
@@ -19,3 +19,9 @@ The custom PCB for the jumping microrobot is detailed in [here](https://github.c
 | MCU |	ATtiny10 |	1 |	SOT-23-6 |
 
 </details>
+
+## Mechanical hardware
+The files required for cutting the spring tail is [here](https://github.com/RobotFormAndFunction/Springtail_microrobot/tree/main/MechanicalHardware). Other mechanical components are listed in the BOM.
+
+# Software specification
+The microrobot software was written in Embedded C and programmed with the Tiny Programming Interface from Atmel using the Atmel-ICE.
