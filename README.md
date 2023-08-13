@@ -5,7 +5,7 @@ This GitHub repository describes the mechanical and electrical hardware and soft
 This section details the electrical and mechanical hardware used in the jumping microrobot.
 
 ## Electrical hardware
-The custom PCB for the jumping microrobot is detailed in [here](https://github.com/RobotFormAndFunction/Springtail_microrobot/tree/main/ElectricalHardware), with the schematic of the board and Gerber files. The microcontroller is an ATtiny10 which is a small, low-power 8-bit AVR RISC-based microcontroller with 1 KB ISP Flash memory, 32B SRAM, four general purpose I/O lines. The summary of electrical hardware is below in the BOM. 
+The custom PCB for the jumping microrobot is detailed in [here](https://github.com/RobotFormAndFunction/Springtail_microrobot/tree/main/Electrical%20Hardware), with the schematic of the board and Gerber files. The microcontroller is an ATtiny10 which is a small, low-power 8-bit AVR RISC-based microcontroller with 1 KB ISP Flash memory, 32B SRAM, four general purpose I/O lines. The summary of electrical hardware is below in the BOM. 
 
 <details><summary>Bill of materials (BOM)</summary>
 
