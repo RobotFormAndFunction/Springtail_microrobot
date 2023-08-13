@@ -1,7 +1,7 @@
 # Mechanical hardware
-The files required for cutting the spring tail is [here](https://github.com/RobotFormAndFunction/Springtail_microrobot/tree/main/Mechanical%20Hardware). Other mechanical components are listed in the BOM.
+The files required for cutting the spring tail is [here](https://github.com/RobotFormAndFunction/Springtail_microrobot/blob/main/Mechanical%20Hardware/jumper_design.dxf). Other mechanical components are listed in the BOM.
 
-<details><summary>Bill of materials (BOM)</summary>
+<summary>Bill of materials (BOM)</summary>
 
 #### BOM
 
@@ -9,9 +9,9 @@ The files required for cutting the spring tail is [here](https://github.com/Robo
 | :--- | :---: | --- |
 | Tail | 1 | Cut with jumper_design.dxf from 0.19 Super elastic SMA |
 | Legs |	4 |	Leads from through hole resistors |
-| Actuator |	1 |	Hinge actuator from  |
+| Actuator |	1 |	Hinge actuator from https://micronwings.com/product/actuator-set-hinge-with-leads-and-connectors/ |
 
-</details>
+
 
 
 ## Assembly
