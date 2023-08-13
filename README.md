@@ -21,7 +21,7 @@ The custom PCB for the jumping microrobot is detailed in [here](https://github.c
 </details>
 
 ## Mechanical hardware
-The files required for cutting the spring tail is [here](https://github.com/RobotFormAndFunction/Springtail_microrobot/tree/main/Mechanical%20Hardware). Other mechanical components are listed in the BOM.
+The files required for cutting the spring tail is [here](https://github.com/RobotFormAndFunction/Springtail_microrobot/tree/main/Mechanical%20Hardware). Other mechanical components are listed in the BOM in the mechanical hardware, along with a video of assembly.
 
 # Software specification
 The microrobot software was written in Embedded C using PlatformIO and programmed with the Tiny Programming Interface from Atmel using the Atmel-ICE. The source code is available [here](https://github.com/RobotFormAndFunction/Springtail_microrobot/tree/main/Software)
