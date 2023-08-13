@@ -16,3 +16,7 @@ The files required for cutting the spring tail is [here](https://github.com/Robo
 
 ## Assembly
 A video of the assembly of the robot is shown below
+
+
+https://github.com/RobotFormAndFunction/Springtail_microrobot/assets/98366383/454ca516-8a3c-4a6f-8e5d-e53803f9ef20
+
