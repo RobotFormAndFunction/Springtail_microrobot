@@ -1,6 +1,12 @@
 # Springtail jumping microrobot
 This GitHub repository describes the mechanical and electrical hardware and software for an autonomous spring-tail inspired jumping microrobot. 
 
+
+
+https://github.com/RobotFormAndFunction/Springtail_microrobot/assets/98366383/b097e502-10c7-4643-9109-868a8b8baddd
+
+
+
 # Hardware Specifications
 This section details the electrical and mechanical hardware used in the jumping microrobot.
 
