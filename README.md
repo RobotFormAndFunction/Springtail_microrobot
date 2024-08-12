@@ -1,6 +1,19 @@
 # Springtail jumping microrobot
 This GitHub repository describes the mechanical and electrical hardware and software for an autonomous spring-tail inspired jumping microrobot. 
 
+To cite:
+```bibtex
+@INPROCEEDINGS{Singh2024,
+  author={Singh, Shashwat and Temel, Zeynep and St.~Pierre, Ryan},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Multi-modal jumping and crawling in an autonomous, springtail-inspired microrobot}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={5999-6005},
+  doi={10.1109/ICRA57147.2024.10610130}}
+```
+
 
 
 https://github.com/RobotFormAndFunction/Springtail_microrobot/assets/98366383/b097e502-10c7-4643-9109-868a8b8baddd
